@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-calories-app/static/css/main.0d84b4fe.chunk.css",
+    "main.js": "/react-calories-app/static/js/main.bdefbfe3.chunk.js",
+    "main.js.map": "/react-calories-app/static/js/main.bdefbfe3.chunk.js.map",
+    "runtime-main.js": "/react-calories-app/static/js/runtime-main.faa66eb8.js",
+    "runtime-main.js.map": "/react-calories-app/static/js/runtime-main.faa66eb8.js.map",
+    "static/js/2.c60e0e69.chunk.js": "/react-calories-app/static/js/2.c60e0e69.chunk.js",
+    "static/js/2.c60e0e69.chunk.js.map": "/react-calories-app/static/js/2.c60e0e69.chunk.js.map",
+    "index.html": "/react-calories-app/index.html",
+    "precache-manifest.d1f978be5babb7f970c4ad64c66f10b5.js": "/react-calories-app/precache-manifest.d1f978be5babb7f970c4ad64c66f10b5.js",
+    "service-worker.js": "/react-calories-app/service-worker.js",
+    "static/css/main.0d84b4fe.chunk.css.map": "/react-calories-app/static/css/main.0d84b4fe.chunk.css.map",
+    "static/js/2.c60e0e69.chunk.js.LICENSE.txt": "/react-calories-app/static/js/2.c60e0e69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa66eb8.js",
+    "static/js/2.c60e0e69.chunk.js",
+    "static/css/main.0d84b4fe.chunk.css",
+    "static/js/main.bdefbfe3.chunk.js"
+  ]
+}
